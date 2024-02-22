@@ -11,5 +11,5 @@ btn2.addEventListener("click",function(){
 btn1.addEventListener("click",function(){
     h5.innerHTML="delete friend";
     h5.style.color="red";
-});
+}); 
 
